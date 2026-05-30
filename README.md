@@ -21,3 +21,5 @@
 9) Hacer un pull requests
 
 10) Sí lograste hacer el pull requests, pedir el certificado al final de la clase
+
+asd
